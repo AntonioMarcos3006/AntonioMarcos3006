@@ -58,7 +58,7 @@
 ### 📫 Contato
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/antonio-marques" target="_blank">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/antonio-marques-830612416" target="_blank">LinkedIn</a> ·
   <a href="mailto:isabelantonio3003@gmail.com">Email</a> ·
   <a href="https://wa.me/554898000737" target="_blank">WhatsApp</a>
 </p>
