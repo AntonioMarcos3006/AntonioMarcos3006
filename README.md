@@ -6,7 +6,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1230,50:e07a2c,100:f4b942&height=180&section=header&text=Antonio%20Marques&fontSize=48&fontColor=ffe9c7&fontAlignY=42&desc=Frontend%20Developer%20%7C%20HTML%20%E2%80%A2%20CSS%20%E2%80%A2%20JavaScript&descAlignY=62&descSize=18&descColor=ffe9c7" width="100%" />
 </p>
 
-<h3 align="center">Olá, eu sou o Antonio 👋</h3>
+<h3 align="center">Antonio Marcos Marques</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AntonioMarcos3006&label=VISUALIZAÇÕES+DO+PERFIL&color=e07a2c&style=flat" />
