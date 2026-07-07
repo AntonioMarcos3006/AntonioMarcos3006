@@ -61,5 +61,5 @@
 </p>
 
 <p align="center">
-  <sub>Feito com 💻 e ☕ por Antonio Marques — 2026</sub>
+  <sub>Feito por Antonio Marques — 2026</sub>
 </p>
