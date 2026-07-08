@@ -17,7 +17,7 @@
 
 ### 🧑‍💻 Sobre mim
 
-- 🎓 18 anos, cursando **Desenvolvimento de Software no SENAI**
+- 🎓 16 anos, cursando **Desenvolvimento de Software no SENAI**
 - 💻 Foco em **Front-end**, construindo interfaces limpas e responsivas
 - 🌱 Aprendendo e evoluindo em HTML, CSS e JavaScript a cada projeto
 - 📍 Florianópolis, SC — Brasil
